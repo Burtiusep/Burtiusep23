@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Hines",
+  "age": 26,
+  "address": {
+    "street": "Ogatal Plaza",
+    "city": "Redzorahu",
+    "state": "RI",
+    "zip": "66410"
+  },
+  "contact": {
+    "phone": "(226) 663-3232",
+    "servicePhone": "800794846"
+  },
+  "birthday": "1980-09-29T04:52:41.666Z",
+  "ip": "59.221.16.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohsa neltueb dut vidov roce pedse zecussew eb meisifaw pam bar rame raz. Zek ohopedbe konjif kantuhu geho ezu uwibuge ob iltegnew pem ida zuhatow doaveav. Di eboto ikafe utalahe moslafu zaf viuho zundolaf avjuoru ner nis objo hakedwuf mifewe men.",
+    "bio": "Ecleg zinekran juhde cahloc imoaj eruhiaw bav powdo nos savizzom zuv jabegbo ha etoge. Hun ekaakuci wegsuw akesatow tej rucru demis nonzih keuteli po asri sokagog. Vehis cagette had netpo hukaz rab getrok ac enivnuk ogodajan fongo potugme leshid."
+  },
+  "apiKey": "21eeee604913973ebddb58ea794fe81c74f4ffc8fd246f1669a8bdaa3f5ef74b",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
