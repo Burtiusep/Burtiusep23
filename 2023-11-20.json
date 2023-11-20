@@ -1,0 +1,26 @@
+{
+  "name": "Madge Reed",
+  "age": 21,
+  "address": {
+    "street": "Eceh Road",
+    "city": "Wusajow",
+    "state": "MS",
+    "zip": "17940"
+  },
+  "contact": {
+    "phone": "(623) 938-1458",
+    "servicePhone": "800295324"
+  },
+  "birthday": "1962-04-13T02:44:10.567Z",
+  "ip": "86.164.178.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Mew ecpu ejo baofewic ragigcit fibmeva wikniltid ovu gebvojog nuzija vune elcevvek gupizvu. Mic ev fif wum ziummuk pu lec sado ejzof ohu mellacu tudabe. Hopadfes zoebe irekifgul sivzoud hofe ho dob givacaus ken keit se ernod.",
+    "bio": "Ota ram ar ac pigoj gewzujlof iwu kuw vehi juhen hipejzi oz modizhe. Rim depocdu cote rajiheuk am hegeg kuvdufe cudenlu rih ovenat ziwurdij huvuh wufovzul pulligo zi ruzagu cuh mez. Rul fi piikaka azame nalavjow usewosoh mebic fa uskel gevok vetehbo obiseb oguedepej arugaj og bup robelaugu. Ven vulgif kid elewavce mi ajuido dofni sesbeaca ono vajsa jomiri wa jiblamho jon."
+  },
+  "apiKey": "2cacbec88f4cad821c64118553f3233565b272184e34739bf86c28bcb5f35f69",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
