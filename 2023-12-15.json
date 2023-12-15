@@ -1,0 +1,26 @@
+{
+  "name": "Erik Wagner",
+  "age": 22,
+  "address": {
+    "street": "Hittan Heights",
+    "city": "Vukwarwuh",
+    "state": "VT",
+    "zip": "87220"
+  },
+  "contact": {
+    "phone": "(228) 567-4326",
+    "servicePhone": "800541798"
+  },
+  "birthday": "1993-09-07T00:10:00.242Z",
+  "ip": "142.231.96.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi fa pinmi iziwamtik tapuhodu tic enjenbi dov le lokuzebi gopwusu jutgupoka rahekhek rog wu lof. Akmubas zul jooju dojid ja asakueva apawuwiz camorvod do irinakop hodsabto nugdim gomsa awbobpem. Waw tekrib pok tomkuagu pahivuva debuvvaw esecew tozo wi lu nil elsiniri be tecamsuw ibomano.",
+    "bio": "Vuveew tawanade amofo peolawap ede fizihe ho gocom evdaz dud wafebwom rugutat conab ogofa tunu. Wukabe ridehu lo eko mit nawgiwi efivivce da adnobat dun jovudigol padhili pokpickaw vuaruuf jafewruv ozivi on bab. Pi tumewec laffuri buojsa hemleor jula zab iswooz hi zub tijakot em oko pivo. Ozaret nakimle tan palidrih pokupezu ked topeclen itemu nane cisanem tuabeta lip jejtugos. Ka uboih nozwaon pisut cuvdo bechengo fibcav dupoz evi ruhcogof cum gides. Offi wubsu lil osa as nur juwwahuw sat zap wuflo gakebeh jogighem siwnew aha."
+  },
+  "apiKey": "e86c2f74a86cb42e5bd1048d291e1b3904acd11ec2502a7fe9b7abacea6809c2",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
