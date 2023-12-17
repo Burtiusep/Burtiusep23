@@ -1,0 +1,26 @@
+{
+  "name": "Anne Stanley",
+  "age": 49,
+  "address": {
+    "street": "Sehjac Plaza",
+    "city": "Seklorok",
+    "state": "NE",
+    "zip": "10773"
+  },
+  "contact": {
+    "phone": "(235) 781-9576",
+    "servicePhone": "800913719"
+  },
+  "birthday": "1991-09-17T10:46:10.880Z",
+  "ip": "45.229.13.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Tekolbe boceha ob ecavu wu aloros dez feskad geac jido gunol uretito upaop he musi jemti. Galve lecdijo avulugot ripuhos oro fu ira huhiw ogug mig ol meke moj. Wovkatu jowule oceih gajuok nalusse uvawuv latec ozlo izu ka ge zuzdo. Vos wi but ikeztop uncafdob ogwap moz nemhajo lu idik pa zoboho bof tubuv.",
+    "bio": "Lut benidho tageka zavij we zagonzig vejekje zikic bolrufi madji vura sajsilvuc dotanpuk. Mi na nepu vadfiv sastu ne keoposez pecgeha wetfuopu vo roppid sofisu dav negoof haezioku gabrof wu. Utdokij uwnok weba kes habwoge na tim li odahac wa ajida sep sohtirna wedujre tobzekpe je bu."
+  },
+  "apiKey": "edbd4c16c84ed7908b5600ff8af03afe4a2d9a79d4de64cc2d68de76c9a96c14",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
