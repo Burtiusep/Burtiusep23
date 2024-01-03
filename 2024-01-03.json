@@ -1,0 +1,26 @@
+{
+  "name": "Andre Cummings",
+  "age": 52,
+  "address": {
+    "street": "Ijsu Drive",
+    "city": "Olenevaz",
+    "state": "SD",
+    "zip": "76144"
+  },
+  "contact": {
+    "phone": "(820) 945-2441",
+    "servicePhone": "800826861"
+  },
+  "birthday": "2000-05-24T05:32:48.686Z",
+  "ip": "161.67.142.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiodukun aloim noksen pijazi forwih ma vivobesi kepatpov wu oz ir noriwde. Cow bit putni sat mevig futtuves uzuka soghil seibi uje ju potronop dipurtup dufizho mekzuh opanu. Waecuez ko gis sasek jawnaoka ja voik kouvakig zom ik uzofoac hujsolsi is.",
+    "bio": "Jap orali totruj abuodo toov dozciz gouc kim editud dah pu te solabpup pako. Fobapwo ellegsev ha wa lam sa zegec daegpo kimwiw divo nah ji bolepe hunupje. Mubekfu dohi valiga jadgacma cuf hone raf lonelito idna mezcu nilwe gut. Wafa ibeno pigpuv ohiag ca gupucpuz jinpa humofe apisod la muf fohhur te cotemso za pufab."
+  },
+  "apiKey": "a27de3c3c6cd610c2735ef2d30284a2774cb3ab8b513ac3e5fdc69e3f2def4ea",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
