@@ -1,0 +1,26 @@
+{
+  "name": "Marie Hill",
+  "age": 43,
+  "address": {
+    "street": "Ifanim Avenue",
+    "city": "Omajahhuf",
+    "state": "KS",
+    "zip": "81447"
+  },
+  "contact": {
+    "phone": "(361) 835-9015",
+    "servicePhone": "800382196"
+  },
+  "birthday": "2006-11-12T08:30:54.697Z",
+  "ip": "80.2.186.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Bir moha luketijef mipvod dar ame du fiman wiroze cij muanagi gahcokpum gane fakjik fowwe uzdelwe sewija. Kehatbo wuukjov ume pi nugnogpam fuj foidti icitaz tuv go foev liofo. Vozfuhaf sukom mocowdu cadpum siheta vos one wusef tuwfip ta iluci hac vis. Gu hahre ifu nuf locujli rodot zekmaptig bib vu bacaru zo bofpiuvo gu okaaba menha.",
+    "bio": "Uve ar ja upakocu le ka gobepubi pekjure sogisi zeiko od icdu tiwoar datwef. Vehuk vuzob cugim nunmakej tuwma iduopu pumdognug umadonje uliwedi vu osnim lojhunfe havi pir. Coc lunanvu awtozaki omiade peguksa buf ejkegnil pi enuciz vasjas waigne luvuz waleze vevgo wasili esabuwuji."
+  },
+  "apiKey": "63b5d769952e90c7c02a985e7ba566ba2866cf88107ea469ec5b9a67ea909732",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
