@@ -1,0 +1,26 @@
+{
+  "name": "Adam Williams",
+  "age": 29,
+  "address": {
+    "street": "Acuewa River",
+    "city": "Julalcim",
+    "state": "TN",
+    "zip": "41987"
+  },
+  "contact": {
+    "phone": "(409) 996-3227",
+    "servicePhone": "800989991"
+  },
+  "birthday": "2001-11-03T20:04:21.615Z",
+  "ip": "190.82.76.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Fijnu fica aha sit fava pudmek haawdo evham barvirde um logi mu. Vu uti pitecdil jimol ge jugot nedbi wer tis zo peta eh juw. Ize eb zocopedi iji hihlekki mothuk va nejnovcuv ruboco polti penjuf sin. Akotufud cesiez huvik ujulud zi fu gu poc vedafdeh he sujo piuri akbaploz an devetra evu kaja. Woder oz ajaam meug rivocsuk majpape vofe tavaden ukegu raphos lesapro kucja taprum itebelre ireso du lu. Nokev afvu zo asiat tez nefu kedrufa gif ludjelav fuvfum gucfejjo cagfowud zav gis wijagra dusik ufodu.",
+    "bio": "Girojog ru ri pis poujwo jepidde mapogo duhnuika mewvupag adaumiosi awovi mohlit. Zapnolef nujopu zuhij sab tudlo narnokum ma vidgor cuza cadil ug vosaon wecin kimnahiw girguvu len. Zupim ulerosa nigume kuj bil acivusla wumarsat abepemew ba koljam beszenvu agsube mes zehurek. Ik kir deum bebfisko gupo su sesoli vak ukemisob jevimnag likac vacur nowhurer hiet la pekodfij fevtalte. Jolo limvojhob gi guspafud obenhe bepzis ma fur bo biman higac umu fu vekgar nekdere. Ril suhi zikun vawvaahu etra ihratuso vonu doltosce jokohruj ugmaso iwnih voges ze li waki. Sotlida za are gu verezfaj leoma kiwudak fidzu vaw gori betla sov rol."
+  },
+  "apiKey": "fb4f7629bacf5709b72b1c7b5c3ddab7e01fc11179b7fc00b76a8f996f3bf133",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
