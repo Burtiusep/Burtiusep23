@@ -1,0 +1,26 @@
+{
+  "name": "Christian Parks",
+  "age": 58,
+  "address": {
+    "street": "Ovhe Way",
+    "city": "Jijosvaz",
+    "state": "WI",
+    "zip": "57828"
+  },
+  "contact": {
+    "phone": "(806) 236-3986",
+    "servicePhone": "800725629"
+  },
+  "birthday": "1970-02-15T11:28:17.020Z",
+  "ip": "210.223.77.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Le wuimema juub ekwivo idepzo ceuriko lecijo pevief ecuvafpu segi uju wena fuv lejari cuzuvufof veceug. Dodjovbo pudbinuw eskejot zok odadi binuh pofoksi lu beleto lag wejlale cuh ja saelona novnaf co vaata refvitfim. Jukusfe cok luveglum urina zatek rat cevhezeci fu dilafa ekcuso nael ti mo po veruz zi hujovha pahredcih. Uj uhigikda isazulo ridepce ruh pih bovcimim al awpac tuud rokuvto az ojo cuva ovoirsib kousu logtewdin zol. Zun ibowu jimkumib vemanuf kelehwel juhe kalo etbafa sokke zimo erke muwza. Manuwo dum ul duzto ef ubi eceje job rajnuluza onicooc noh ujorefwe sigron.",
+    "bio": "Fakbab hun hisbe gu utiwantu hinikuse seru pemuw voj utisejut lo zogemu rab. Mi ip maudi lis wakvuhuju ob hinbaruc daupku oro dewvujwu cepre kurunmis zif ure ka. Hejke be go nuem vibwo pes koluplaj ge cugzuwra alociej pupewor gupozodof."
+  },
+  "apiKey": "630d53a4b468b81746594126532a44c537eca6afc4a1a8a8ec90632d32f39c36",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
