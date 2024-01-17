@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Hamilton",
+  "age": 38,
+  "address": {
+    "street": "Naluw Boulevard",
+    "city": "Jehobohi",
+    "state": "FL",
+    "zip": "97947"
+  },
+  "contact": {
+    "phone": "(256) 213-8311",
+    "servicePhone": "800494464"
+  },
+  "birthday": "1974-05-23T10:42:48.854Z",
+  "ip": "36.224.241.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Vim akiruv vemiw sunconce toimiso refto limi melal paod kidma ojlu merkikja ijebij rep kisaklas susosu vev ge. Ufe vi fiegkav zasovfe datiobi toukha tugzic nu vinojdim le dew uwnez. Ji kab omul deuwi belezekav wollopi oma ruzga zepo fuzap ki og mevka avmuv garbi. Egi ge vivu raikeuj col azuba vonewekok bim leapu regcuvi ta dukfoge holvobino.",
+    "bio": "Rohu co zutvo uztem hocid juwaoc koj nemlan jefococ ketnowpu zukaswom rimmi tebupasab. Okjawoli pim gobfaci lup kubnil eb dozigo nuwpavhel bubzog rovrej ba sunuma mebavome. Jimo jef comampu aghoj pilemtug pi jaf uzesagwi zez hiawo davi tauci larausu ut tiagu ratomler. Le ji zegpisezo aju lun patmujba supra sejnuzoh raji vadri wam revpu erevucwo tarat rotakucab fopso vouw. Oczurot dupnuj butmat lac sicbukwud kiuf corgu wotlepe poh vahu oklir ropozco bat mewacfol ju ilnuvuf uwrob idutu. Okekoav kumil vip faji haz zaot gabane hojivehi cam sapieba ufuihalob rivlahve sagum ziz ciz umekinli."
+  },
+  "apiKey": "5f69cf1627c899c2ae43a7dbdd59945de26d4d119d08c5e2da4e75936c1ebf0b",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
