@@ -1,0 +1,26 @@
+{
+  "name": "Tom Reeves",
+  "age": 26,
+  "address": {
+    "street": "Gueko Court",
+    "city": "Citjurig",
+    "state": "IA",
+    "zip": "27838"
+  },
+  "contact": {
+    "phone": "(410) 412-6410",
+    "servicePhone": "800537248"
+  },
+  "birthday": "1982-07-08T22:39:21.361Z",
+  "ip": "235.164.242.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Hafnibad alo jehpi unpo zueho co fiag pavuzekal vem muz jazusedin lof ebuti. Gu tedube pugik demoh dam gef co puvmihu fo cezwu wun cijapin soraj giwle. Uvuke bej kinuba wecgifu lu jac funowhev adakohic codeg soswikit rulric okmot rof rus zoggagpok tatmasok huvu niencer.",
+    "bio": "Uji gepo idulav ab fetatof ithe emko eh ca fejehe zumwazer teha mu we nel wuku fi. Rad op sebnuhfu ici ezsadva wekpin fo co iwawog vonoluc me wi. Nup lispiz rihmad nazhuvwuh bibnefvi vidmiow mev watwef icjeg liripiode ru tup minmobko nidijiho ji. Zohej okpuad modibiga zifzek nop covgenja futoh bazu viuvahe lowiz toobofo afkej veluj odo uzre atojo alwip. Tet fal igteseh keb kusik cok vantin woz mojul ga urmitaz cuatakej ofi kon log sup hemapoc. Nedluw sevuk koege hos hioho lavre hegowco cot ze ri fori saracbis ucdito. Nuvuziz bomeus idezumkew disni pi oh buk bedufga dipi ihehem bijif caj codaheepe lacsij zevjewzeb jiriz wezfufa."
+  },
+  "apiKey": "cb7a24bb23f8222144fd5c1cfdb71ec486cbff9b1012d8c07116472bcf5ee035",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
