@@ -1,0 +1,26 @@
+{
+  "name": "Harvey Nash",
+  "age": 31,
+  "address": {
+    "street": "Mobute Trail",
+    "city": "Usojide",
+    "state": "HI",
+    "zip": "18998"
+  },
+  "contact": {
+    "phone": "(379) 453-6605",
+    "servicePhone": "800251586"
+  },
+  "birthday": "1989-09-25T03:26:30.289Z",
+  "ip": "10.130.41.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Acoriw bodon vuhofbi deino nac leh difguc gewuug daw bofaf ehowce ole. Dawha jujirru fuuve pofo iga tigboksen rovpuotu agauvamas olu cuto hidufab maera juw lu wublisuh fizigav pamin. Satgemuc otgoha jegi vu lov neruro fos ner uzzo non ovse ih afo valu lal javali evuc iczar. Pehsow ijeeka koorok ita tohukho udekorle jevoec gil uwo lotvawi rirdi vu mos hehrun okulivpuj nof li jeab.",
+    "bio": "Kan pol zohu dojdiho vojaro ug rijic zojpe ecfegtem zure juknotod nifzopmo irseebu sissik. Cenoam ido sotta kihgar to kitoj vuzi ov vooge coagsag rid nahkeg ha nesido. Ilromo verus jaaf po urto liateate gi amuvoel ev jicodo ruwuv ta iwwun si imefaj wa gukajuno. Ridazkaz igce suajig hacagwet gika hotejne ecetum ujizi zot ogi utnivab jagertag. Bewo lod faslagvaf cuwmukhaw vaglug cojiz om ujagal cuctiber oheizeac pulovo japod kufapi tucuh rohjahuc."
+  },
+  "apiKey": "5be180da1290ec92cff364c68b1644e1478e552a2870cc6f3f22b147bd0c65e1",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
