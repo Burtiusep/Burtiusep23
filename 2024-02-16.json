@@ -1,0 +1,26 @@
+{
+  "name": "Martha Edwards",
+  "age": 24,
+  "address": {
+    "street": "Kipi Trail",
+    "city": "Urjacce",
+    "state": "KS",
+    "zip": "11530"
+  },
+  "contact": {
+    "phone": "(384) 722-5770",
+    "servicePhone": "800495849"
+  },
+  "birthday": "1987-11-15T05:10:26.354Z",
+  "ip": "70.97.73.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuvop civouka giga ag tu sifoj as lulfim nucelhiz natudam tokzodmuz besbo. Rogzakatu vulwik zut doto ri kozieve velvecbu wiw uwtelof lez kew riufod ahu idipidu fomwas ga. Cabo mugga kace ulde boolbu ife woc cebfuc vihiwomi obokkik gubhe obuuwrus lubo fuguli zujijes.",
+    "bio": "Zajip fufnuon vapudeev ha zepevo ceid cij rumro cenewzu en pawsu os uniho zupduv raulpa vel. Weloknit nuzonud riozupu vegugruz tuv hafeh rihli zo no ozozevi rolpuap hudlutviv dibe ha ovesut kij it. Eprojcak ci nudoz ruvtuep do tojmi ra biobawus zihaive nu hafkubvuc lafowap waw fozjofre oje."
+  },
+  "apiKey": "bc9d47cc2d024a168be3b3e542ab406eba5ac6534c3d3097cf23a4d9084d2c59",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
