@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Baker",
+  "age": 23,
+  "address": {
+    "street": "Hioju Avenue",
+    "city": "Gewinsof",
+    "state": "MA",
+    "zip": "77952"
+  },
+  "contact": {
+    "phone": "(744) 747-4452",
+    "servicePhone": "800219581"
+  },
+  "birthday": "2000-12-04T21:28:54.997Z",
+  "ip": "105.207.190.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Abvi gositonu wofhaigi ah jegfel cukbuspol alaanje rim cejiszi tuukib wejene biit. Sodud mogutig henak cusiji kocigva funvi apa ru puasuco rahcogaci ananulur li itibu gilcacva gimigafut zigi. Wolu iw ned cozrejzut pid zorhute da okwighu gap kutjin papotib lubgafel tikcedko. Vugi tuc teztu sabke giz puh onde icla busfa wobo dizamu finarvun suc zopdev ih. Lonvica zewigriz awupobcoc irina etmer sip guhed foj larzauh neike da dekakci kijvabfa ba zelul zupeppo vife safdimed. Ekiluido guvti orokitusu ra lugvuf litena jigo acahaluf nata ebu leja efve muiptiz ju.",
+    "bio": "Pafkohsod sunenva peram obu tu vinkemi ruvep lal fovi vozcuc efo ase wiev cera. Ipbog rucedab idoubbom zep zufruaf pesidpom we lu ravufa jilezo vo bop raade kuso ti rawu. Dum zakwuf kas wov wubebla bausko kuhgeev al bi zo toceve kar pikem fu an gispu na mengivjom. Saca perlif iguig wehreje ujahire bilecuki ca jetgabij ogogidig gelege zo kop nuwkek. Nocud tofmaz nativir hawehevag jawbobfil lu dirabu giwna pofesug jewucta dara tij ezavenmo je. Uvnis owako mu imvogtu caohovud cetmiw wojsaz ewdogfaj gujgog vud dotirrij bezarap gasfihpe huunu soclosjek."
+  },
+  "apiKey": "93e78e91240b7ca1002e1690b5aabb1fe0f78301941d02f4fc5d24cbe6357377",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
