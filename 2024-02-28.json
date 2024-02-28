@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Higgins",
+  "age": 36,
+  "address": {
+    "street": "Enaler Place",
+    "city": "Rekizto",
+    "state": "NY",
+    "zip": "13211"
+  },
+  "contact": {
+    "phone": "(705) 311-2008",
+    "servicePhone": "800127892"
+  },
+  "birthday": "1970-12-29T06:00:26.244Z",
+  "ip": "167.58.103.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh utaheji ken jot jak niwfavsi vatze hittozig lujil piptowku se pepic pumewce ovzejli rezude jazum. Lokfo do fajova kupjat tu larzon dejmifof vewikeka zafalepal weh ofehor cofbic ase hoolo je. Dauka luc vi junvoini nem fuwepvi nekzelul geckut cujta dif necbewu erinupuf wiw vuudzi sekhubda ik pujtafog hip. Ejiji ipeb ecbepi ramissov bu ficerig oc fum cof awbocuf sekuda lopij miuj ivodo mazizag ruk gobomre oladaz. Vu ewzam ibuhimod bavotived za eweka jommulgun waguzjur sajouh jes unoeko ahru.",
+    "bio": "Gimlipu id sevaku vub diannez pabdu ob an obi focomwu raifire voururo tip. Hu wen nuin coc vir raolafus to uwrigjo kivu obro cecrulrip si cikov za. Mu tof na vis aca jofbu vovki luwdar fevbevip ka li jeliv caskiv nutkuruc dofgat dominmo tatfidat. Zi uvnuv jap sazihfew wiba lipungec utuma raveze makfu ledakkaw devurco he zaf seliw tapkocoj raila zehoglif."
+  },
+  "apiKey": "e5db951983efefef2b09e50a76ac57e0fe209f299ed852227a9de5a3a53aef3d",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
