@@ -1,0 +1,26 @@
+{
+  "name": "Carl Newman",
+  "age": 25,
+  "address": {
+    "street": "Tugpep Center",
+    "city": "Etabotu",
+    "state": "OK",
+    "zip": "67123"
+  },
+  "contact": {
+    "phone": "(619) 258-2079",
+    "servicePhone": "800273379"
+  },
+  "birthday": "1983-01-29T06:27:57.835Z",
+  "ip": "37.154.245.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Va opomofwoc zipfep wasuzabos powguw tewlo esvi hu lum wijerzo voloc veen izena lo wihuj. Uwa fu vuf izo mohgeve isukinkev nita nihsak jawajca pef esem pek tur cojlih. Su wejpodkoz aja nirtec jewicva nistuojo taz ci colueg kene wues comvucbad coobiti. Avejudce ev welo pe fi ugjemuv bonki jumalwe wogaume udhi vo sogkazro pajo giferizi unvada. Zunzumow diku bumumob febete co ekagob koc op okjieso nojvi nihlalo woaviem go fidin tutzew. Kihki cale hi weukpo pol sojodwa ke olohuhpuc gujlik wogovouba zufujo zeg zohsiged vitnovzi bup uhogohwup.",
+    "bio": "Og genbugop bas tomorrid kowesaw viturube micku ohu if turoctet lettuv fum newar mu. Peloc wuc si hesi mak fi sef nif ci lucoj gi sajevuja dedobu kapkocwa. Usomasa dumuva wevatpi ebfun kuhhu kaneih nu vemfoh zujlona kaodo lo votispa ko otrezos cav. Amuli ewov vehkoles ganazfe me kezsuzew jakij le fiz gideje famvok pe fif bo acre."
+  },
+  "apiKey": "c3c6327f593f49f9fd594c2b9b25612eb743ec23601ba53a62a794fa6025da8e",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
