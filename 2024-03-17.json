@@ -1,0 +1,26 @@
+{
+  "name": "Jean Hill",
+  "age": 34,
+  "address": {
+    "street": "Lovsir Mill",
+    "city": "Afwajip",
+    "state": "AK",
+    "zip": "14331"
+  },
+  "contact": {
+    "phone": "(557) 991-5669",
+    "servicePhone": "800797752"
+  },
+  "birthday": "1984-02-15T09:10:20.325Z",
+  "ip": "125.178.157.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Buj hi jufa imnafnan puev burelicaf jolrat bo dawoguc la fehliw mec cule ovueku pi ta faluza. Ki ruwek hersir uvo ho lu ume wuknizov atubu cuf cikabut rel oc bizofbe. Ufmu domot ceg kefvu gonmu imtiman pebnu pucceaf vubjitvu asa hejnez rifma fub. Buutme ebbujvo dun zulo jogef cep widwekil bejamow iri lo cezjeta uri nimpag ga moaku mohirvu.",
+    "bio": "Sufer utpiuwe tub ri pu gicsiju salah da sim hozafom owra ku. Pabrebit nubteha fujak katlutzi levoh kecofaz uk jojrihu vuddoage af komwuje ela. Tur dujvujaw dopezok cupi woep pongalmi uhagiit suskimdi nemuwhe pet more sol dugus."
+  },
+  "apiKey": "7652c23a5e57fc14ee98a06432f6912b4abb342aa2b9d9f4fdca6ae28f3ee269",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
