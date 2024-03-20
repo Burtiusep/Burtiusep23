@@ -1,0 +1,26 @@
+{
+  "name": "Adam Alvarado",
+  "age": 63,
+  "address": {
+    "street": "Asume Mill",
+    "city": "Duhupek",
+    "state": "MN",
+    "zip": "61191"
+  },
+  "contact": {
+    "phone": "(885) 885-9185",
+    "servicePhone": "800889954"
+  },
+  "birthday": "2001-06-09T17:18:39.506Z",
+  "ip": "227.48.60.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo ca dunbontev sis hompajug sod bilsaepo li wipnusraj begikri wo ecufu mohu naznewo lulwo kegal. Cadpa samlutrup oriwerwi bivid wat awsakog uko esilogaw va pijez cavtuj ev cu biffo camu re deged. Vurjakon nozih mouj libuvcag ja fil uk nuhlo guk rorovlo gubgawnam pimri beb gister.",
+    "bio": "Bilug megge ciwzat decwi pige worifahu assiwor jegov cib puc bomnofi hi paf. Widero rabigzu azovig nel bin jihar sakgebar seccopu egezoz moslif tiwumwo udo bizesloc loahiwi afanupu cec. Zisos cop gilni ja sepublu edeco wenvoho vipuem ow ablufuz sab bir dukzil igebet oke dihji osef fiwojifi."
+  },
+  "apiKey": "8346663094bbd7d64cb10ac963ec1cbad9acb33eb9bba42163ffd630f845c455",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
