@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Payne",
+  "age": 35,
+  "address": {
+    "street": "Wabbav Center",
+    "city": "Rinzecus",
+    "state": "FL",
+    "zip": "72502"
+  },
+  "contact": {
+    "phone": "(627) 620-6275",
+    "servicePhone": "800649251"
+  },
+  "birthday": "1983-08-01T00:10:37.640Z",
+  "ip": "75.231.3.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Omrire civozem vu lovuoj vusut ali sihade zuzabaki boozti rupilfog coc hegpapfa. Afuwo hohupju uze ehazuas elo no rejuw pi gicizbup oregef kad hohraj de daeh lehug fitovoni. Rimbellu kah fij nasuoki ah har wo kovpa ruoz baljipo pa waplosu so tasunne usjolkiv fice elpueze.",
+    "bio": "Fen momhicij lig hi sodho ezpob kujdadofi lurenog lehlac talovi decofow dejeroh morfene miupaka curpi niikivu nucezo. Ruzehja uksojo gi di sutmeawe le vut dabow obva nefumoti merilu rotubifa najmom adeaw ig bobneg refkirfi lirad. Awhu gak ruhloup baaladu orutep rod ajtute dir rite nijlu la la cuzmuvub sap usrapra leto gub zapruk."
+  },
+  "apiKey": "ccd41f1c7c1a67b55754fb7a44c7d00a46e6ff0823217f6da284b7140448a74e",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
