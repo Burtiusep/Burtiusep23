@@ -1,0 +1,26 @@
+{
+  "name": "Keith Meyer",
+  "age": 38,
+  "address": {
+    "street": "Janci Parkway",
+    "city": "Jefdacwa",
+    "state": "KS",
+    "zip": "26923"
+  },
+  "contact": {
+    "phone": "(605) 802-3658",
+    "servicePhone": "800696729"
+  },
+  "birthday": "1981-08-26T06:46:28.206Z",
+  "ip": "169.39.188.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Po se li ecefioce harec du unmor dubotsit sa azo gat cojof birvi nen mi dujgog teubo anurpi. Arosebi sejoni ek larnup fuw jak lisicce ucaso bohpizju leemitaj duzmebmoz ni or jus. Ehlabhob towjoizo pepudazo jeke jucike ahmadcu ohepo balroevi ragbunis giozi gusikeako li fa danu.",
+    "bio": "Emza san hiak cisisna kiziv ehegzi favda wodnis kocluowi baimo abhacab jis hebofis abaideli. Zalulbun cisosehak pud porjoltoz lufkono enu we kacje ezu seslo foplohvog odiib zediven. Peckesew puv ocfe akowo ahegor vi itbuf vuwu ene sinat uj laseg tobbeca gekule kibzac supaceih vojolner bis."
+  },
+  "apiKey": "7c37e423c1b7290594b312de8f5d704b0ce6b34193243477ca76593fa0221f74",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
